@@ -6,3 +6,5 @@
 - [x] Add circles (center and radius)
 - [x] Color Picker
 - [x] Save to `localStorage`
+
+![](preview.png)
